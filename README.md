@@ -2,4 +2,4 @@ Les circuits électroniques (microprocesseur, chipset, System on Chip) assurent 
 
 Dans ce document, vous allez simuler et tester une fonction "Décodage" destinée à un circuit logique programmable.
  
- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WebGE/pldpy.git/master)
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WebGE/jupyter_pld.git/master)
